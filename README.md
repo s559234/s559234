@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 -  Born in Suryapet
 - 🔭 I’m currently working on GitHub
 - 🌱 I’m currently learning Web Apps
-- 💬 Ask me about Nothing
-- ⚡ Fun fact: Endiiii eeee goolaaaaaa
+- 💬 Ask me about Movies
+- ⚡ How to reach me : saivoleteprashanth@gmail.com
 
